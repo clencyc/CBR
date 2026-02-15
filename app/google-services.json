@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942359527244",
+    "project_id": "synochi-cbr",
+    "storage_bucket": "synochi-cbr.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942359527244:android:77908ae3f8a9b84f5f99e9",
+        "android_client_info": {
+          "package_name": "com.example.cbr_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8LyaVwEr3qsqBejJ3X_YpCVzKwQJacs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
